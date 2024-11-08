@@ -1,101 +1,327 @@
 ---
-title: "Arbeidskrav-5"
-
-
+title: "Arbeidskrav_5"
+editor_options: 
+  chunk_output_type: console
 ---
-
-
-
 
 # Introduksjon 
 
-Styrketrening er en effektiv metode for å forbedre både muskelstyrke og mukselmasse. Den har også vist seg å ha flere helsefordeler, inkludert forbedring av kroppssammensetning, økt beinhelse og redusert risiko for kroniske sykdommer (schoenfeld., 2010). Muskelstyrke og muskelmasse er viktige faktorer for både helse og prestasjon, og et større fokus på optimalisering av trening har ført til en bredere forståelse av hvordan ulike faktorer, som intensitet, frekvens og treningsvolum påvirker resultatene. Et av de viktigste faktorene som bestemmer effektene av styrketrening er treningsvolum, som referer til den totale mengden arbeid som utføres under en treningsøkt eller over en treningsperiode (sett x repitisjoner x belastning). Hvordan treningsvolumet påvirker muskelstyrke og hypertrofi har lenge vært et aktivt tema, da det er svært gunstig å finne optimale volumer som kan maksimere muskelstyrke og hypertrofi uten å føre til skader eller prestasjonsfall (Schoenfeld et al., 2017). Imidliertid er det fortsatt noe usikkert hvordan ulike nivåer av volum (høyt vs. lavt) påvirker andre fysiologiske prosesser, som restitusjon, motorenhetsrekrettering og prestasjon. 
+Styrketrening er en effektiv metode for å forbedre både muskelstyrke og mukselmasse. Den har også vist seg å ha flere helsefordeler, inkludert forbedring av kroppssammensetning, økt beinhelse og redusert risiko for kroniske sykdommer (schoenfeld., 2010). Muskelstyrke og muskelmasse er viktige faktorer for både helse og prestasjon, og et større fokus på optimalisering av trening har ført til en bredere forståelse av hvordan ulike faktorer, som intensitet, frekvens og treningsvolum påvirker resultatene. Et av de viktigste faktorene som bestemmer effektene av styrketrening er treningsvolum, som referer til den totale mengden arbeid som utføres under en treningsøkt eller over en treningsperiode (sett x repitisjoner x belastning). Hvordan treningsvolumet påvirker muskelstyrke og hypertrofi har lenge vært et aktivt tema, da det er svært gunstig å finne optimale volumer som kan maksimere muskelstyrke og hypertrofi uten å føre til skader eller prestasjonsfall (Schoenfeld et al., 2017). Imidliertid er det fortsatt noe usikkert hvordan ulike nivåer av volum (høyt vs. lavt) påvirker andre fysiologiske prosesser, som restitusjon, motorenhetsrekrettering og prestasjon.
+
 
 Treningsvolum er ansett som en av de viktigste faktorene som påvirker muskelhypertrofi (Schoenfeld, 2013). Høyere treningsvolum har vært assosiert med større muskelvekst, men dette kan medføre positive og negative effekter, avhengig av individets trennigssatus, restitusjonsevne og andre fysiologiske faktorer (krieger, 2010). Muskelmasse referer til mengden muskelvev i kroppen, mens muskelstyrke beskriver den maksimale kraften en muskel eller muskelgruppe kan produsere. En viktig mekanisme som er påvirket av treningsvolum er motorenhetsrekruttering, som referer til aktiviteten i de motoriske nevronene som sender signaler til musklene. Forskning har vist at høyere treningsvolum kan øke motorenhetsrekrutteringen, noe som kan ha gunstige effekter på muskelstyrke og hypertrofi, men samtidig kan det også føre til økt muskelødem og økt restitusjonstid (Häkkinen et al., 1998; Kraemer et al., 2002). 
 
-Effekten av treningsvolum på prestasjon og restitusjon er også et vitkig å ta i betrakning. Mens høyere treningsvolum kan føre til mer hypertrofi, kan det  samtidig også medføre økt belastning på kroppen, og dermed føre til større doms (delayed onset muscle soreness) og lengre restitusjonstid (Schoenfeld et al., 2017). I motsening kan lavere treningsvolum være mindre belastende på kroppen, og ha en fordel når det gjelder motorenhetsrekruttering og prestasjon. Trening med lavere volum gir et høyere nivå av motorenhetsrekruttering per repetisjon, noe som kan være gunstig for maksimalstyrke (Schoenfeld et al., 2017). Videre kan den reduserte muskelbelastningen i lavvolumtrening føre til en raksere restitusjon, som gjør det mulig å trene med en høyere treningsfrekevns (Krieger, 2010). Spørsmålet om hvordan kroppen responderer på ulike treningsvolumer, og hvordan dette påvirker muskelstyrke, hypertrofi, prestasjon og restitusjon, er derfor sentralt for å lage effektive treningsprogrammer, spesielt for de som ønsker å optimalisere treningen. 
+Effekten av treningsvolum på prestasjon og restitusjon er også vitkig å ta i betrakning. Mens høyere treningsvolum kan føre til mer hypertrofi, kan det samtidig også medføre økt belastning på kroppen, og dermed føre til større doms (delayed onset muscle soreness) og lengre restitusjonstid (Schoenfeld et al., 2017). I motsening kan lavere treningsvolum være mindre belastende på kroppen, og ha en fordel når det gjelder motorenhetsrekruttering og prestasjon. Lavere volum gir også et høyere aktivering av motoriske enheter per repetisjon, noe som kan være gunstig for maksimalstyrke og hypertrofi (Schoenfeld et al., 2017). Videre kan den reduserte muskelbelastningen i lavvolumtrening føre til en raksere restitusjon, som gjør det mulig å trene med en høyere treningsfrekevns (Krieger, 2010). (få inn proteinsyntese og det "anabolske vinduet" ) Spørsmålet om hvordan kroppen responderer på ulike treningsvolumer, og hvordan dette påvirker muskelstyrke, hypertrofi, prestasjon og restitusjon, er derfor sentralt for å lage effektive treningsprogrammer, spesielt for de som ønsker å optimalisere treningen. 
 
-
-hypotese 
-
-
-Formålet med denne rapporten er å undersøke hvordan treningsvolum (høyt vs. lavt) påvirker muskelhypertrofi og styrke. 
-
-For å oppnå optimale resulater, er det vitkig å forstå hvordan forskjellige faktorer som treningsvolum, intenistet og frekvens påvirker fysiologiske tilpasninger som hypertrofi (muskelstyrke) og styrketilpassninger (Schoenfeld, 2010). Blant disse faktorene har treningsvolum fått mye oppmerksomhet, da det er mye forskning som viser til at høyere volum kan gi mer hypertrofi, mens når det kommer til muskelstyrke er det mer uklart (Schoenfeld et al., 2017; Grgic et al., 2020). 
-
-Volumet i styrketrening kan defineres som antall sett, repetisjoner og vektbelastning gjennomført i løpet av en styrketrening. Flere studier har vist at et høyere treningsvolum, spesielt når det kombineres med høy intenistet, fører til økt muskelhypertrofi (Krieger, 2010; Radaelli et al., 2014). Samtidig har andre studier antydet at for personer med erfaring innen styrketrening, kan lavere volum være tilstrekkelig for å øke muskelstyrken og muskelmasse (Schoenfeld, 2010). 
-
-doi: 10.1249/MSS.0000000000001764. (Schoenfeld et al., 2019) 
-
-Flere studier har indikert at trening til utmattelse kan stimulere til større muskelvekst enn trening med flere repetisjoner i reserve (Shcoenfeld et al., 2015). Mens andre studier som  Gonzalez-Badillo et al.,(2014) stiller seg mer kritisk, og påpeker at trening til utmattelse ikke nødvendigvis gir bedre resultater i forhold til muskelstyrke og at risikoen for overtrening og skader kan øke. 
-
-
-# Hypotese 
-
-Hypotesen for denne studien er at høyere treningsvolum (flere sett og repetisjoner) vil føre til større muskelhypertrofi, men at styrkeøkningene ikke nødvendigvis vil være like store med høyere volum sammenlignet med lavere volum. Videre antar vi at trening til muskelutmattelse vil føre til større muskelvekst, men ikke nødvendigvis større styrkeøkninger.
-
-Hypotese: "Økt treningsvolum vil føre til signifikant større muskelhypertrofi enn lavere treningsvolum, når intensitet og frekevens holdes konstant." 
-
-I denne hypotesen blir det antatt at volumet spiller en viktig rolle for å stimulere muskelhypertrofi. Et høyere treningsvolum gir mer mekansik belastning som tidligere forskning har vist kan fremme hypertrofi. 
-
-(H0): "Det er ingen signifikant forskjell i muskelhypertrofi mellom høyere og lavere treningsvolum, når intenistet og frekvens  holdes kopnstant". 
-
-Nullhypotesen antar at treningsvolum ikke har en signifikant effekt på muskelhypertrofi, og at eventuelle forskjeller mellom gruppene skyldes tilfeldigheter eller andre faktorer som ikke er relatert til volumet, som for eksempel genetikk, kosthold, eller restitusjon. 
 
 # Methods
 
-Studien av Hammerstöm et al.(2019) inkluderte totalt 41 mannlige og kvinnelige deltakere i alderen 18 og 40 år. Inklusjonskriteriene var at deltakerne skulle være ikke-røykere og mellom 18-40 år gamle. Mens ekklusjonskriteriene inkluderte intoleranse mot lokalbedøvelse, en treningshistorikk med mer enn en ukentlig styrketrening siste 12 månder før intervensjonsstart, nedsatt muskelstyrke på grunn av skader, samt medikamenter som kunne påvirke tilpassninger assoiert til trennig.
-Under dataanalyser ble syv deltakere ekskludert på grunn av at de ikke fullførte minst 85% av treningsøktene. Deltakerne rappoerterte tidligere erfaring med sportsaktiviteter. 20 deltakere rapporterte at de var engasjert i fysisk trening på tidspunktet for påmelding. 
 
-## Tabell 1. 
+## Deltakere og studieoversikt
+
+Studien av Hammerstöm et al.(2019) inkluderte totalt 41 mannlige og kvinnelige deltakere i alderen 18 og 40 år. Inklusjonskriteriene var at deltakerne skulle være ikke-røykere og mellom 18-40 år gamle. Mens ekklusjonskriteriene inkluderte intoleranse mot lokalbedøvelse, mer enn en styrkeøkt i uka de siste 12 månedne før intervensjonsstart, nedsatt muskelstyrke på grunn av skader, samt medikamenter som kunne påvirke tilpassninger assoiert til trennig.
+Under dataanalyser ble syv deltakere ekskludert, fordi de ikke fullførte minst 85% av treningsøktene. Årsaker som ubehag eller smerter i underekstremittene under trening (*n = 5*), skade påført utenom protokollen (*n = 1*), eller manglende oppmøte (*n = 1*). Selv om de inkluderte deltakerne ikke trente styrketrening regelmessig, var det alikevel 20 deltakere som  rapporterte at de var fysisk aktive (median på 2 økter i uka, med en range på 0,5-4). I tillegg hadde alle de deltakerne tidligere treningserfaring med ulike aktiviter, som lagidretter og langrenn. 
+
+## Tabell.1 
+```{r}
+
+#| echo: false
+#| label: tbl-antro
+#| tbl-cap: "Deltakerkarakteristikker"
+
+# Last inn dataene
+library(exscidata)
+data("strengthvolume"); data("dxadata")
+
+# Hent antropometriske data fra datasett
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+
+baseline_tbl <- dxadata %>%
+  select(participant:time, sex:weight, age, height) %>%  # Sørg for at disse kolonnene finnes
+  filter(time == "pre") %>% 
+  group_by(sex, include) %>% 
+  summarise(
+    N = n(),
+    Alder = sprintf("%.1f (%.1f)", mean(age, na.rm = TRUE), sd(age, na.rm = TRUE)),
+    Vekt = sprintf("%.1f (%.1f)", mean(weight, na.rm = TRUE), sd(weight, na.rm = TRUE)),
+    Stature = sprintf("%.0f (%.0f)", mean(height, na.rm = TRUE), sd(height, na.rm = TRUE)),
+    .groups = "drop"  # For å unngå advarsler om grupping
+  ) %>% 
+  # Konverter alle kolonnene til karakter for å unngå datatypeproblemer i pivot_longer
+  mutate(across(everything(), as.character)) %>%
+  pivot_longer(cols = c(N, Alder, Vekt, Stature), names_to = "Variable", values_to = "Value") %>% 
+  unite("sex_include", sex, include, sep = "_") %>% 
+  pivot_wider(names_from = sex_include, values_from = Value)
+
+# Tabell 
+kable(baseline_tbl, row.names = FALSE, col.names = c("", "Ekskludert", "Inkludert", "Ekskludert", "Inkludert")) %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), full_width = FALSE) %>%
+  add_header_above(c(" " = 1, "Kvinne" = 2, "Mann" = 2))
 
 
+```
+(Verdiene er presentert som gjennomsnitt og standrardavvik (SD)).
+
+Intervensjonen besto av 12 uker med styrketrening for hele kroppen, hvor deltakerne ble delt inn i to grupper basert på treningsvolum; én gruppe trente med høyere volum (4-6 sett per øvelse), og den andre gruppa trente med lavere volum (2-3 sett per øvelse). De valgte øvelsene hadde fokus på de store muskelgruppene i over- og underkropp, og øvelsene ble utført unilateralt (en side omgangen) for å tillate intern differensiering av treningsvolum. Treningsvolum ble randomisert fordelt og deltakerne utførte både moderat og lavt volum. 
+
+```{r}
+#| echo: false
+#| label: fig-trening
+#| tbl-cap: "Studieoversikt"
+
+# Dataframe som representerer treningsfrekvens og RM per uke
+data <- data.frame(
+  Uke = factor(1:12, levels = c(0, 1:12)),  # Spesifiserer nivåene, inkludert 0
+  RM = c("10RM", "10RM", "8RM", "8RM*", "8RM", "7RM*", "7RM", "7RM", "7RM*", "7RM", "7RM", "7RM"),
+  Frekvens = c(2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 1)
+)
+
+# Ukene der styrkemålingene ble gjort (x-markeringene)
+måling_uker <- data.frame(
+  Uke = factor(c(0, 1, 3, 5, 9, 12), levels = c(0, 1:12)),  # Inkluderer 0 foran 1
+  Frekvens = 3.1,           # Plassering over søylene
+  label = "x"               # Bruk "x" som markør
+)
+
+# Ukene der muskeltverrsnit ble gjort (sirkel-markeringene)
+sirkel_uker <- data.frame(
+  Uke = factor(c(1, 12), levels = c(0, 1:12)),  # Sikrer at 0 er med på skalaen
+  Frekvens = 3.0           # Plassering over søylene
+)
+
+# Søylediagram som illustrerer studiedesign
+ggplot(data, aes(x = factor(Uke, levels = c(0, 1:12)), y = Frekvens)) +
+  geom_bar(stat = "identity", fill = "grey", color = "black", width = 0.6) +  
+  geom_text(aes(label = RM), vjust = 0.5, color = "black", size = 5, 
+            angle = 90, position = position_stack(vjust = 0.5)) +  # Plasser RM-etiketter vertikalt midt i søylen
+  geom_text(data = måling_uker, aes(x = Uke, y = Frekvens, label = label), 
+            color = "black", size = 6, vjust = -0.5) +  # Plasser "x" rett over søylen
+  geom_point(data = sirkel_uker, aes(x = Uke, y = Frekvens), 
+             shape = 21, fill = "white", color = "black", size = 5, stroke = 1.5) +  # Plasser sirkler rett over søylen
+  scale_x_discrete(limits = as.character(c(0, 1:12))) +  # Setter rekkefølgen på x-aksen
+  scale_y_continuous(breaks = 1:3, limits = c(0, 3.5)) +  # Justerer y-aksen for å gi plass til markeringene
+  labs(
+    x = "Uke",
+    y = "Treningsfrekvens"
+  ) +
+  theme_minimal()
+```
+
+(De ulike søylene illustrer treningsfrekvens per uke med en treningsintensitet lik x repetisjon maksimum (RM). De intensitetne som er markert med (\*), referer til at en av de øktene den uken ble utført med 90% av 1RM. Sirkelsymbolet viser til når det ble utført målinger av muskeltversnitt med hjelp av fullkropps DXA og MR av kneekstensjons muskelen. X markerer de ulike styrkemålingene: før intervensjonen (n = 34), under (n = 18) og etter (n = 34). Den maksimale styrken før intervensjonen ble satt som den høgeste verdien deltagerne oppnådde under to ulike testsekvenser før intervensjonen startet.)
 
 
-Intervensjonen besto av 12 uker med styrketrening for hele kroppen, hvor deltakerne ble delt inn i to grupper basert på treningsvolum; én gruppe trente med høyere volum (4-6 sett per øvelse), og den andre gruppa trente med lavere volum (2-3 sett per øvelse). De valgte øvelsene hadde fokus på de store muskelgruppene i over- og underkropp, og øvelsene ble utført unilateralt (en side omgangen) for å tillate i intern differensiering av treningsvolum. Treningsvolum ble randomisert fordelt og deltakerne utfører både moderat og lavt volum. 
-
- Muskelstyrken ble målt med Isokinetisk og isometrisk muskelstyrke ved baseline, under uke 3, 5 og 9 og etter treninigsintervensjonen. Kroppssammensetning ble målt før og etter treningsintervensjonen. Muskelbiopsier ble tatt fra begge bena (m. vastus lateralis) på fire tidspunkter under intervensonen: ved baseline, før og 1 time etter den femte treningsøkten, uke 2 før og etter trening, og uke 12 etter avsluttet intervensjon. Fra og med uke 6 utførte deltakerne en kostholdsregistrering der de veide og loggførte kostinntaket i 4 til 5 påfølgende dager, inkludert en helgedag.  
+Muskelstyrken ble målt med Isokinetisk og isometrisk muskelstyrke ved baseline, under uke 3, 5 og 9 og etter treninigsintervensjonen. Kroppssammensetning ble målt før og etter treningsintervensjonen. Muskelbiopsier ble tatt fra begge bena (m. vastus lateralis) på fire tidspunkter under intervensonen: ved baseline, før og 1 time etter den femte treningsøkten, uke 2 før og etter trening, og uke 12 etter avsluttet intervensjon. Fra og med uke 6 utførte deltakerne en kostholdsregistrering der de veide og loggførte kostinntaket i 4 til 5 påfølgende dager, inkludert en helgedag.  
 
 
 ## Spesifikke beskrivelser av tetser og målinger
 
-For vurdering av isokinetisk styrke ble deltakerne festet i et dynamometer (cybex 6000), og maksimal isokinetisk torque ble vurdert ved tre forskjellige hastigheter (60, 120 og 240 grader s-1). Deltakerne fikk tre forsøk ved 120- og 240 grader s-1, mens det ble brukt to forsøk ved60 grader s-1, og det høyeste resulatet ble brukt til videre analyser. Isometrisk test (MVC) ble målt med en knevinkel på 30 grader, hvor deltakerne presset mot en motstand i 5 sekunder. Deltakerne fikk to forsøk med 30 sekunders hvile mellom hvert forsøk. Maksimal styrke ble vurdert hjelp av 1RM-test i unilateral benkpress og kne-ekstensor. Testen starter med en progressiv oppvarming inntil deltakerne hadde funnet riktig 1RM belastning. 
-For å måle de fire musklene som utgjør quadtriceps (Vastus lateralis, medialis, intermedius og rectus femoris) før og etter treningsintervensjonen ved hjelp av magnetisk resonansbilde (MRI). Det ble også brukt DXA-scan både før og etter intervensjonen for å måle fettmasse, muskelmasse og beinmasse. Det ble også tatt blodprøver på fem forskjellige tidspunkter for å analysere nivåene av total testosteron, kortisol, veksthormon, IGF-1 og vitamin D. Prøvene ble separert og lagret -80 grader før analysene ble utført. Muskelbiopsier ble tatt fra m. vastus lateralis for å analysere muskelfordeling, samt for proteinanalyse og RNA-ekstraksjon. For å analysere muskelfordeling og myosinisoform uttrykk ble det brukt dobbelt-fariging og immunhistokjemiske teknikker. Protein og RNA ble analysert fra muskelvev og relevante signaliseringsuttrykk, som for eksempel mTOR, S6K1 og rpS6.  
+For å vudere effekten av treningsvolumet på styrke og hypertrofi ble deltakerne testet på flere måter (1) Maksimal styrke ble målt ved 1 repetisjon maksimum (1RM) i benkpress, knebøy og markløft. 1RM-testene ble gjennomført både før og etter treningsintervensjonen, og deltakerne ble instruert for å sikre god teknikk og for å redusere risikoen for skader. (2) Hypertrofi ble målt ved hjelp av ultralyd for å vurdere tverrsnittsarealet (CSA) av quadtriceps, biceps brachii og pectoralis. For å standarlisere testene best mulig, ble det brukt samme operatør til å gjennomføre målingene før og etter intervensjonen. (3) Motorenhetsrekruttering ble vurdert ved hjelp av EMG, som målte aktiviteten i musklene under trening. 
+
+For vurdering av isokinetisk styrke ble deltakerne festet i et dynamometer (cybex 6000), og maksimal isokinetisk torque ble vurdert ved tre forskjellige hastigheter (60, 120 og 240 grader s-1). Deltakerne fikk tre forsøk ved 120- og 240 grader s-1, mens det ble brukt to forsøk ved 60 grader s-1, og det høyeste resulatet ble brukt til videre analyser. Isometrisk test (MVC) ble målt med en knevinkel på 30 grader, hvor deltakerne presset mot en motstand i 5 sekunder. Deltakerne fikk to forsøk med 30 sekunders hvile mellom hvert forsøk. Maksimal styrke ble vurdert hjelp av 1RM-test i unilateral benkpress og kne-ekstensor. Testen starter med en progressiv oppvarming inntil deltakerne hadde funnet riktig 1RM belastning. 
+For å måle de fire musklene som utgjør quadtriceps (Vastus lateralis, medialis, intermedius og rectus femoris) før og etter treningsintervensjonen ble  magnetisk resonansbilde (MRI) brukt. Det ble også brukt DXA-scan både før og etter intervensjonen for å måle fettmasse, muskelmasse og beinmasse. Det ble også tatt blodprøver på fem forskjellige tidspunkter for å analysere nivåene av total testosteron, kortisol, veksthormon, IGF-1 og vitamin D. Prøvene ble separert og lagret -80 grader før analysene ble utført. Muskelbiopsier ble tatt fra m. vastus lateralis for å analysere muskelfordeling, samt for proteinanalyse og RNA-ekstraksjon. For å analysere muskelfordeling og myosinisoform uttrykk ble det brukt dobbelt-fariging og immunhistokjemiske teknikker. Protein og RNA ble analysert fra muskelvev og relevante signaliseringsuttrykk, som for eksempel mTOR, S6K1 og rpS6.  
 
 
 ## Dataanalyse og statistikk
 
-Dataene ble behandlet ved å beregne gjennomsnitt og standardavvik (SD) for de descriptive målingene. Det ble brukt linære blandede modeller (LMM) og regresjonsanalyser for å sammenligne effektene av treningsvolum (ett sett vs. tre sett) på muskelhypertrofi og styrke, der endringer ble regnet som avhengige variabelen, og antall sett som den uavhengige variabelen. Det ble også brukt GLMM for å analysere fordelingen av muskelfibre og mRNA-data for myosin.isoformer. En binomisk variansfunksjon ble brukt for muskelfordeling, og en beta variansfunksjon for genuttrykk. Det ble også utført hypotesetester for å vurdere effektene av treningsvolum. De estimerte variablene ble testet mot nullhypotesen (ingen forskjeller mellom volumgruppene), og resultatene ble framlagt med p-verdier, konfidentsintervall og effektstørrelse. 
-
-
-I studien ble all data presantert som gjennomsnitt (mean) og standardavvik (SD). Det ble gjennomført en priori beregning som indikerte at 40 deltakere ville være nok til å oppdage ca. 3-5 prosentenheter forskjell i maksimal styrke og muskeltverrsnitt mellom de forskjellige volumgruppene. Prøvestørrelsesberegninger var basert på en ønsket effekt på 80%, forutsatt forskjeller mellom volumtilstand tilsvarende effektstørrelse på 0,47-0,51, osm estimert fra tidligere studier (Ronnestad et al. 2007; Mitchell et al. 2012). 
-
-For å vurdere effekten av antall sett på muskelhypertrofi og styrke, ble linære mixed-effects- modeller (LMM) benyttet spesifisert med relative endringer fra baseline som avhengie variabel og antall sett den viktigste faste effekten. Kjønn og baseline-verdier ble inkludert og brukt som kovariater, samt intraksjonen mellom kjønn og antall sett ble også undersøkt. I tillegg ble effekten av treningen på molekylære faktorer som total RNA og western blot-data vudert ved hjelp av LMM-er med faste effketer for tid og tid x treningsvolum. For muskelfiberfordelinger og myosin heavy-chain mRNA-data ble generaliserte linære blandede modeller (GLMM) brukt. Mens en logit-link-funksjon ble anvendt for muskelfiberfordelinger, samt en beta-link-funksjon ble benyttet for mRNA-data for å håndtere den ikke-normale fordelingen av relative fiber- og myosin-isoformdata.  Ved modellforenkling ble likelihood-ratio (LHR) utført gjennom reduksjon av tilfeldige effektparametere. 
-
-Når det gjelder statitisk signifkans, ble tester mot nullhypotesene om ingen forksjeller høyt vs. lavt volum utført på modellens estimater. Spesifikke programvarepakker for R, som nlme, ime4 og glmmTMB brukt for å tilpasse de statitiske modlellene. Mens i analysen av de ekstra fordelene ved flere sett, ble logistiske regresjonsmodeller brukt for å se på korrelasjonen mellom forskjellige prediktorer, og sannsynligheten for å oppnå en bedre respons med flere sett. Variabler ble valgt på forhånd, og for å identifisere relevante prediktorer ble univariat modelltestning utført før de eventuelt kunne bli inkludert i en multivariat analyse. 
-
-Deskriptive data ble presentert som gjennomsnitt og standrardavvik (mean (SD)). For inferens ble passende statistiske modeller brukt for å analysere effektene, og resultater ble vurdert med statistiske tetser som likelihood-ratio tetser for å sammenligne modeller. 
-
-
-
 Deltakerne gjennomførte et styrketreningsprogram som varte i 12 uker, og studien ble designet som et kontrollert eksperiment. Treningsøktene besto av øvelser for de store muskelgruppene, og volumet ble nøye kontrollert for å sikre at treningsintenisteten var standarlisert for begge grupper. I tillegg ble det utført tester for muskelstyrke, hypertrofi og motorenhetsrekruttering før og etter intervensjonen. 
 
-Deltakernes karakteristika: 
+Deskriptive data ble presentert som gjennomsnitt og standrardavvik (mean (SD)). For inferens ble passende statistiske modeller brukt for å analysere effektene, og resultater ble vurdert med statistiske tetser som likelihood-ratio tetser for å sammenligne modeller. Det ble brukt linære blandede modeller (LMM) og regresjonsanalyser for å sammenligne effektene av treningsvolum (ett sett vs. tre sett) på muskelhypertrofi og styrke, der endringer ble regnet som avhengige variabelen, og antall sett som den viktigste faste variabelen. Det ble også brukt GLMM for å analysere fordelingen av muskelfibre og mRNA-data for myosin.isoformer. En binomisk variansfunksjon ble brukt for muskelfordeling, og en beta variansfunksjon for genuttrykk. Det ble også gjennomført en priori beregning som indikerte at 40 deltakere ville være nok til å oppdage ca. 3-5 prosentenheter forskjell i maksimal styrke og muskeltverrsnitt mellom de forskjellige volumgruppene. Prøvestørrelsesberegninger var basert på en ønsket effekt på 80%, forutsatt forskjeller mellom volumtilstand tilsvarende effektstørrelse på 0,47-0,51, som estimert fra tidligere studier (Ronnestad et al. 2007; Mitchell et al. 2012). 
 
-Høy volum (n=12) Alder: 22 ± 3 år, erfaring 1-3 år styrketrening, kjønn 6 menn, 6 kvinner.
-
-Lav volum (n=12) alder: 21 ± 4 år, 1-3 år styrketrening, 6 menn, 6 kvinner. 
-
-For å vudere effekten av treningsvolumet på styrke og hypertrofi ble deltakerne testet på flere måter (1) Maksimal styrke ble målt ved 1 repetisjon maksimum (1RM) i benkpress, knebøy og markløft. 1RM-testene ble gjennomført både før og etter treningsintervensjonen, og deltakerne ble instruert for å sikre god teknikk og for å redusere risikoen for skader. (2) Hypertrofi ble målt ved hjelp av ultralyd for å vurdere tverrsnittsarealet (CSA) av quadtriceps, biceps brachii og pectoralis. For å standarlisere testene mest mulig, ble det brukt samme operatør til å gjennomføre målingene før og etter intervensjonen. (3) Motorenhetsrekruttering ble vurdert ved hjelp av EMG, som målte aktiviteten i musklene under trening. 
-
+Når det gjelder statitisk signifkans, ble tester mot nullhypotesene om ingen forksjeller mellom høyt vs. lavt volum utført på modellens estimater. Spesifikke programvarepakker for R, som nlme, ime4 og glmmTMB brukt for å tilpasse de statitiske modlellene. Mens i analysen av de ekstra fordelene ved flere sett, ble logistiske regresjonsmodeller brukt for å se på korrelasjonen mellom forskjellige prediktorer, og sannsynligheten for å oppnå en bedre respons med flere sett. Variabler ble valgt på forhånd, og for å identifisere relevante prediktorer ble univariat modelltestning utført før de eventuelt kunne bli inkludert i en multivariat analyse. 
 
 
 # Resultater 
 
 
+# Tabell. 1
+```{r}
+#| echo: false
+#| label: tbl-muskeltverr
+#| tbl-cap: "Oppsummering av muskeltverrsnitt før og etter intervensjon (kombinert for kjønn, kun pre og post)"
+
+# Utregning av gjennomsnitt og SD for muskeltverrsnitt
+library(dplyr)
+library(knitr)
+library(ggplot2)
+
+# Dataprosessering - omstrukturering og kombinering av data for høyre og venstre ben
+muskeltverr <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(
+    cols = lean.left_leg:lean.right_leg, 
+    names_to = "leg", 
+    values_to = "lean.mass"
+  ) %>%
+  mutate(
+    leg = if_else(leg == "lean.left_leg", "L", "R"), 
+    sets = if_else(multiple == leg, "multiple", "single")
+  ) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass)
+
+# Oppsummering av gjennomsnitt og standardavvik etter tid, treningsvolum og kjønn
+muskeltverr_summary <- muskeltverr %>% 
+  group_by(time, sets, sex) %>% 
+  summarise(
+    mean_lean_mass = mean(lean.mass, na.rm = TRUE),
+    sd_lean_mass = sd(lean.mass, na.rm = TRUE),
+    .groups = "drop"  # Fjerner grupperingen automatisk etter summarise
+  )
+
+# Filtrer til pre og post tidspunkter og kombiner kjønn for en enklere oversikt
+muskeltverr_summary_pre_post <- muskeltverr_summary %>%
+  filter(time %in% c("pre", "post")) %>%
+  group_by(time, sets) %>%
+  summarise(
+    mean_lean_mass = mean(mean_lean_mass, na.rm = TRUE),
+    sd_lean_mass = sqrt(mean(sd_lean_mass^2, na.rm = TRUE)),  # Kombinert SD ved å bruke kvadratet av SD
+    .groups = "drop"
+  ) %>%
+  arrange(time, sets)  # Sortér etter tid og treningsvolum
+
+# Lag en oversiktlig tabell
+muskeltverr_summary_pre_post %>%
+  kable(
+    col.names = c("Tidspunkt", "Treningsvolum", "Gjennomsnittlig muskeltverrsnitt (g)", "Standardavvik (SD)"))
+```
+(Tabellen gir en oversikt over hvordan muskeltverrsnittet (lean mass) har endret seg før og etter intervensjonen, både for forskejllige treningsvolumer (multiple vs. single sets). 
+
+Figur.1
+```{r}
+library(tidyverse)
+
+# Transformere dataene for å vise både "pre" og "post"
+dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg, time) %>%  # Inkluder 'time' for å få pre/post
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%  # Omstrukturere venstre og høyre ben
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"),  # Endre leg-koden til 'L' og 'R'
+         sets = if_else(multiple == leg, "multiple", "single")) %>%  # Bestemme type sett
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%  # Velg relevante kolonner
+  print()  # Vis tabellen
+
+ggplot(dxadata %>%
+         select(participant:include, lean.left_leg, lean.right_leg, time) %>%
+         pivot_longer(names_to = "leg", 
+                      values_to = "lean.mass", 
+                      cols = lean.left_leg:lean.right_leg) %>%
+         mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+                sets = if_else(multiple == leg, "multiple", "single")) %>%
+         select(participant, time, sex, include, sets, leg, lean.mass), 
+       aes(x = leg, y = lean.mass, fill = sets)) +
+  geom_boxplot() +
+  facet_wrap(~ time + sex) +  # Facet på både 'time' (pre/post) og 'sex'
+  labs(title = "Lean Mass by Leg, Sets, Time, and Sex",
+       x = "Leg",
+       y = "Lean Mass")
+
+
+
+```
+(Figuren gir en oversikt over hvordan muskeltverrsnittet varierer etter intervensjonen, både for venstre og høyre ben, på tvers av tidspunktene, kjønnene og treningsvolumene). 
+
+
+
+Tabell. 2
+```{r}
+library(tidyverse); library(exscidata); library(lme4)
+
+# Load data
+dat <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+        
+        # Extract leg specific data
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+        # Filter only included participants
+        filter(include == "incl") %>%
+        # Make data set wider by time 
+        
+        pivot_wider(names_from = "time", 
+                    values_from = "lean.mass") %>%
+        # Calculate change score
+        
+        mutate(change = post - pre) %>%
+        
+        # Keep change score and make it wider by sets
+        select(participant:sets, change) %>%
+        pivot_wider(names_from = sets, values_from = change) %>%
+        
+  print()
+
+### Use simple t-test on change score
+
+t.test(dat$multiple, dat$single, paired = TRUE)
+
+```
+(Det er en signifikant forksjell i muskelmasse-endring mellom "multiple" sett og "single" sett. Med en gjennomsnittlig forskjell i endring på 122.79 enheter, hvor "multiple sett ser ut til å ha en en høyere effekt på muskelhypertrofi enn "single" sett. En p-verdi på 0.059 bekrefter videre dette, noe som betyr at vi kan avvise nullhypotesen om at det ikke er noen forskjell, og konkludere med at effekten er statistisk signifikant). 
+
+
+
+
+```{r}
+#| echo: false
+#| label: fig-styrke
+#| fig-cap: "Utvikling i muskelstyrke for leg press og leg extension"
+
+# Utregning av gjennomsnitt og SD for muskelstyrke
+
+library(dplyr)
+
+strength_mean.sd <- strengthvolume %>% 
+  filter(exercise %in% c("legpress", "legext")) %>% 
+  group_by(time, sets, sex, exercise) %>% 
+  summarise(mean_strength = mean(load, na.rm = TRUE),
+            sd_strength = sd(load, na.rm = TRUE)) %>% 
+  ungroup()
+
+# Diagram av utviklingen i muskelstyrke
+
+library(ggplot2)
+
+## Endre navn på tidspunktene
+
+strength <- strength_mean.sd %>%
+  mutate(time = recode(time,
+                       "pre" = "Pre",
+                       "session1" = "Uke 1",
+                       "week2" = "Uke 2",
+                       "week5" = "Uke 5",
+                       "week9" = "Uke 9",
+                       "post" = "Post"),
+         time = factor(time, levels = c("Pre", "Uke 1", "Uke 2", "Uke 5", "Uke 9", "Post")))
+
+ggplot(strength, aes(x = time, y = mean_strength, color = sets, shape = sex, group = interaction(sets, sex, exercise))) +
+  geom_line(size = 1) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = mean_strength - sd_strength, ymax = mean_strength + sd_strength), width = 0.2) +
+  facet_wrap(~ exercise) +
+  labs(x = "Tidspunkt", y = "Gjennomsnittlig muskelstyrke (kg)", color = "Treningsvolum", shape = "Kj\u00F8nn") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+
+
+
+
+
+
+
 
 
 # Diskusjon 
+
+
+
+
+
 
 
 
@@ -114,6 +340,9 @@ Hammarström, D., Øfsteng, S., Koll, L., Hanestadhaugen, M., Hollan, I., Apró,
 
 Häkkinen, K., et al. (1998). Neuromuscular adaptations and hormonal responses to heavy resistance training in males and females. International Journal of Sports Medicine, 19(5), 336-344. https://doi.org/10.1055/s-2007-971553
 
+Mitchell CJ, Churchward-Venne TA, West DW, Burd NA, Breen L, Baker SK & Phillips SM (2012). Resistance exercise load does not determine training-mediated hypertrophic gains in young men. J Appl Physiol (1985) 113, 71–77.
+DOI: 10.1152/japplphysiol.00307.2012 
 
 
-
+Ronnestad BR, Egeland W, Kvamme NH, Refsnes PE, Kadi F & Raastad T (2007). Dissimilar effects of one- and three-set strength training on strength and muscle mass gains in upper and lower body in untrained subjects. J Strength Cond Res 21, 157–163.
+DOI: 10.1519/00124278-200702000-00028 
